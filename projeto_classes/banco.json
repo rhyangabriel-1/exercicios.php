@@ -1,0 +1,21 @@
+{
+    "aluno": [
+        {
+            "nome": "rhyan",
+            "email": "rhyan.belem@aluno.senai.br",
+            "matricula": null
+        }
+    ],
+    "professor": [
+        {
+            "nome": "rhyan",
+            "email": "rhyan.belem@aluno.senai.br",
+            "disciplina": "Matemática"
+        },
+        {
+            "nome": "rhyan",
+            "email": "rhyan.belem@aluno.senai.br",
+            "disciplina": "Matemática"
+        }
+    ]
+}
