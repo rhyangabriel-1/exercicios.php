@@ -27,17 +27,22 @@ li strong {
     margin-bottom: 5px;
 }
 nav {
+    background-color: black;
     text-align: center;
     margin-bottom: 20px;
+    padding: 10px 0;
     
 }
 nav a {
     margin: 0 10px;
+    padding: 10px 15px;
+    background-color: rgba(255, 255, 255, 0.205);
     text-decoration: none;
-    color: #333;
+    color: #ffffff;
 }
 nav a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.447);
 }
 form {
     max-width: 600px;
