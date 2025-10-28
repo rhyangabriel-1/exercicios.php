@@ -1,0 +1,24 @@
+
+body {
+    /*margin: 10%;*/
+    text-align: center;
+    background-color: bisque;
+
+}
+
+header {
+    margin-top: 1%;
+    margin-bottom: 10%;
+    background-color: rgb(243, 243, 243);
+
+}
+button {
+    text-align: center;
+    border-radius: 10%;
+    color: rgba(90, 141, 183, 0.81);
+}
+h3 {
+    background-color: white;
+    border-radius: 5%;
+    height: 5%;
+}
